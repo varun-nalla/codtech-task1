@@ -53,4 +53,7 @@ Recognize the limitations of blocking delays (e.g., delay() stops other processe
 
 Debugging and Problem Solving:
 Develop debugging techniques for identifying issues in circuits (e.g., incorrect polarity of LED) or code (e.g., wrong pin configuration).
+
+Output of the Project:
+
 # codtech-task1

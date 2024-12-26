@@ -55,5 +55,6 @@ Debugging and Problem Solving:
 Develop debugging techniques for identifying issues in circuits (e.g., incorrect polarity of LED) or code (e.g., wrong pin configuration).
 
 Output of the Project:
+https://github.com/user-attachments/assets/3afe26ca-a2e2-4638-a27a-31c7470130eb
 
 # codtech-task1
